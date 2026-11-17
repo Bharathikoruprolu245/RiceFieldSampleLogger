@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RiceFieldSampleLogger</string>
+    <string name="title_rice_field_sample_logger">🌾 Rice Field Sample Logger</string>
+    <string name="subtitle_record_field_locations">Record field locations, weather and rice promoter sequences.</string>
+    <string name="btn_sign_in_with_google">Sign in with Google</string>
+    <string name="status_please_sign_in">Please sign in to continue.</string>
+    <string name="btn_open_dashboard">Open Dashboard</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+    <string name="user_email">Email: %1$s</string>
+    <string name="default_web_client_id">986761368918-tp86erpov6vqmebftgqa6v20dctufcfp.apps.googleusercontent.com</string>
+</resources>
